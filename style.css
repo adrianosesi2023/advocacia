@@ -1,0 +1,36 @@
+.tudo{
+    margin: 0px 23%;
+    text-align: justify;
+}
+.fotos{
+    display: flex;
+    gap: 1px;
+    img{width: 200px;}
+}
+
+.paralax{
+    background-image: url(img/capa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 70vh;
+}
+.tt_paralax{
+    text-align: right;
+    padding-top: 30px;
+    padding-right: 400px;
+    font-size: 27px;
+    font-weight: bold;
+}
+h1{
+    font-size: 22px;
+    margin: 0px 23%;
+}
+
+h3, h5{
+    text-align: center;
+    font-size: 24px;
+}
+h2,h4,h6{
+    font-size: 18px;
+}
